@@ -1,2 +1,3 @@
 # nppCrimsonCalculator
-Notepad++ plugin emulating the Crimson Editor Calculator
+
+Notepad++ plugin emulating the Crimson Editor Calculator.
